@@ -1,0 +1,15 @@
+
+#oo:hover{
+    transform: scale(1.1);
+   
+}
+#ok1:hover{
+    transform: scale(1.1);
+}
+#ol:hover{
+    transform: scale(1.1);
+    text-shadow:4px 4px 4px goldenrod;
+}
+#ol1:hover{
+    text-shadow:4px 4px 4px goldenrod;
+}
